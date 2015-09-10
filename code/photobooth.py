@@ -17,7 +17,7 @@ def where_am_i():
         time.sleep(3)
         
         if x >= 10.5 and y == 9.0 and z == -44.3:
-        #print "You are at the photobooth!"
+        #print "You are almost MLG m8m8m8m8m8!"
         
             mc.postToChat("You are in the Photobooth!")
             time.sleep(1)
